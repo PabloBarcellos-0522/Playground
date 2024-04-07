@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "Pasta"
+    }
+  ],
+  "settings": {
+    "editor.fontLigatures": false,
+    "workbench.panel.defaultLocation": "bottom",
+    "prettier.semi": true,
+    "editor.wordWrap": "off",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 18
+  }
+}
